@@ -2321,13 +2321,23 @@ input, select, textarea {
 				padding-right: 3.5em;
 			}
 
+			ul.icons li a {
+				width: 100%;
+				text-decoration: none;
+			}
+
+			
+
 				@media screen and (max-width: 736px) {
 
 					ul.icons.major li {
 						padding: 0 1em !important;
 					}
 
-				}
+				}		
+
+				
+				
 
 /* Table */
 
@@ -2817,7 +2827,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #9381FF;
 			color: #c8ece9;
 		}
 
@@ -3964,10 +3974,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/jxsh\ bg_v2_00000.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/jxsh\ bg_v2_00000.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/jxsh\ bg_v2_00000.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/jxsh\ bg_v2_00000.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner_josh.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner_josh.JPG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner_josh.JPG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner_josh.JPG");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3997,3 +4007,6 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+	
