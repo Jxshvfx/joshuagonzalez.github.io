@@ -3968,6 +3968,140 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+	/* Anim-2D Banner */
+	
+
+	#main-anim2d > header {
+		padding: 12em 0 10em 0 ;
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/abennene_00037.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/abennene_00037.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/abennene_00037.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/jxsh\ abennene_00037.jpg");
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
+	}
+
+	    #main-anim2d > header h2 {
+			font-size: 1.75em;
+			margin: 0 0 0.5em 0;
+		}
+
+		#main-anim2d > header p {
+			color: inherit;
+			letter-spacing: 0.225em;
+			text-transform: uppercase;
+			top: 0;
+		}
+
+		    #main-anim2d > header p a {
+				color: inherit;
+			}
+
+		@media screen and (max-width: 1680px) {
+
+			#main-anim2d > header {
+				padding: 10em 0 8em 0 ;
+			}
+
+		}
+
+		@media screen and (max-width: 1280px) {
+
+			#main-anim2d > header {
+				padding: 8em 3em 6em 3em ;
+			}
+
+		}
+
+		@media screen and (max-width: 980px) {
+
+			#main-anim2d > header {
+				padding: 10em 3em 8em 3em ;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#main-anim2d > header {
+				padding: 5em 3em 3em 3em ;
+			}
+
+			    #main-anim2d > header h2 {
+					font-size: 1.25em;
+					margin: 0 0 1em 0;
+				}
+
+		}
+
+		/* Anim-2D Banner */
+
+		#main-anim3d > header {
+			padding: 12em 0 10em 0 ;
+			background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/anim3d_banner_00063.jpg");
+			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/anim3d_banner_00063.jpg");
+			background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/anim3d_banner_00063.jpg");
+			background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/anim3d_banner_00063.jpg");
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			text-align: center;
+		}
+	
+			#main-anim3d > header h2 {
+				font-size: 1.75em;
+				margin: 0 0 0.5em 0;
+			}
+	
+			#main-anim3d > header p {
+				color: inherit;
+				letter-spacing: 0.225em;
+				text-transform: uppercase;
+				top: 0;
+			}
+	
+				#main-anim3d > header p a {
+					color: inherit;
+				}
+	
+			@media screen and (max-width: 1680px) {
+	
+				#main-anim3d > header {
+					padding: 10em 0 8em 0 ;
+				}
+	
+			}
+	
+			@media screen and (max-width: 1280px) {
+	
+				#main-anim3d > header {
+					padding: 8em 3em 6em 3em ;
+				}
+	
+			}
+	
+			@media screen and (max-width: 980px) {
+	
+				#main-anim3d > header {
+					padding: 10em 3em 8em 3em ;
+				}
+	
+			}
+	
+			@media screen and (max-width: 736px) {
+	
+				#main-anim3d > header {
+					padding: 5em 3em 3em 3em ;
+				}
+	
+					#main-anim3d > header h2 {
+						font-size: 1.25em;
+						margin: 0 0 1em 0;
+					}
+	
+			}
 /* Footer */
 
 	#footer {
